@@ -1,0 +1,17 @@
+.large{
+ font-size: 40px;
+ padding-left: 45px;
+ padding-right: 130px;   
+}
+a:hover
+{
+    text-decoration: none;
+}
+
+/* css for map */
+#map-container{
+    height: 300px;
+}
+.center {
+    text-align: center;
+}
